@@ -1,5 +1,7 @@
 # ASD_classification
-Classification of ASD (autism spectrum disorder) vs TD (typically developing) children based on their scanpaths of image viewing [ICME2019 GrandChallenge "Saliency4ASD" submission]
+Classification of ASD (autism spectrum disorder) vs TD (typically developing) children based on their scanpaths of image viewing. 
+
+This is an ICME2019 GrandChallenge "Saliency4ASD" submission, corresponding paper - "CLASSIFYING AUTISM SPECTRUM DISORDER BASED ON SCANPATHS AND SALIENCY". Please cite this work if you are using the code from this repository.
 
 
 ## Installation
