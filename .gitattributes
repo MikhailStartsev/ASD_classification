@@ -1,1 +1,2 @@
 pretrained_model.pkl filter=lfs diff=lfs merge=lfs -text
+saliency_attentive_model/weights/sam-resnet_salicon_weights.pkl filter=lfs diff=lfs merge=lfs -text

@@ -23,7 +23,8 @@ the requirements for it to run and download the pre-trained weights:
 1. Follow the instructions here: https://github.com/marcellacornia/sam#requirements.
 Pay special attention to the library versions.
 
-2. Download the model weights from https://github.com/marcellacornia/sam/releases/download/1.0/sam-resnet_salicon2017_weights.pkl
+2. [Should not be necessary anymore, the weights are now also in this repository; these instructions are here for reproducibility] 
+Download the model weights from https://github.com/marcellacornia/sam/releases/download/1.0/sam-resnet_salicon2017_weights.pkl
 and put those in the SAM repository folder into `weights/sam-resnet_salicon_weights.pkl`
 (note the name difference between the downloaded file and its destination!)
 
