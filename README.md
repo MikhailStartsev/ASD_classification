@@ -3,6 +3,7 @@ Classification of ASD (autism spectrum disorder) vs TD (typically developing) ch
 
 This is an ICME2019 GrandChallenge "Saliency4ASD" submission, corresponding paper - "CLASSIFYING AUTISM SPECTRUM DISORDER BASED ON SCANPATHS AND SALIENCY". Please cite this work if you are using the code from this repository.
 
+## *If pretrained_model.pkl is not downloadable via LFS, you can download it here directly: https://yadi.sk/d/5ZNLjG2devCRJg.*
 
 ## Installation
 
